@@ -1,6 +1,4 @@
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/moia_eng) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://de.linkedin.com/company/moia_mobility)
-
-**Websites**: [moia.io](https://www.moia.io/en) | [Careers](https://www.moia.io/en/career) | [Life](https://life.moia.io/) | [Medium](https://moiadev.medium.com/)
+**Websites**: [moia.io](https://www.moia.io/en) | [Careers](https://www.moia.io/en/career) | [Life](https://life.moia.io/) | [Medium](https://moiadev.medium.com/) | [LinkedIn](https://de.linkedin.com/company/moia_mobility)
 
 # MOIA - Our code on the road to future mobility.
 
